@@ -5,8 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielVNru&layout=compact)
 
-<div style="display: flex;">
-  <a href="https://t.me/danielVNru" style="text-decoration: none;">Telegram</a>
+<p>Как со мной связаться?</p>
+<div>
+  <a href="https://t.me/danielVNru">Telegram</a>
   <a href="daniel.vn.rus@gmail.com">Mail</a>
 </div>
 
