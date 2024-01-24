@@ -5,8 +5,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielVNru&layout=compact)
 
+<style>
+  .test {
+    text-decoration: none;
+  }
+</style>
+
 <div style="display: flex;">
-  <a href="https://t.me/danielVNru">Telegram</a>
+  <a href="https://t.me/danielVNru" class="test">Telegram</a>
   <a href="daniel.vn.rus@gmail.com">Mail</a>
 </div>
 
