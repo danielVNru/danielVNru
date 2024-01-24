@@ -7,8 +7,8 @@
 
 <p>Как со мной связаться?</p>
 <div>
-  <a href="https://t.me/danielVNru">Telegram</a>
-  <a href="daniel.vn.rus@gmail.com">Mail</a>
+  <span>Telegram: t.me/danielVNru</span>
+  <span>Mail: daniel.vn.rus@gmail.com</span>
 </div>
 
 
